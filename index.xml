@@ -26,6 +26,24 @@
     </item>
     
     <item>
+      <title>Encargo 3</title>
+      <link>https://mirandarcs.github.io/docs/post-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mirandarcs.github.io/docs/post-3/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Encargo 4-Familias mobiliario</title>
+      <link>https://mirandarcs.github.io/docs/post-4/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://mirandarcs.github.io/docs/post-4/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://mirandarcs.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
